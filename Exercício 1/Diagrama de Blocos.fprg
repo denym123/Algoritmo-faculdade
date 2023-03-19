@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Denym"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-19 08:50:36 "/>
+        <attribute name="created" value="RGVueW07REVTS1RPUC1TVlFDMEVCOzIwMjMtMDMtMTk7IjA4OjQ2OjUxICI7Mjc5MQ=="/>
+        <attribute name="edited" value="RGVueW07REVTS1RPUC1TVlFDMEVCOzIwMjMtMDMtMTk7IjA4OjUwOjM2ICI7MTsyODk3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1, n2, resultado" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o primeiro numero:&quot;" newline="True"/>
+            <input variable="n1"/>
+            <output expression="&quot;Digite o segundo numero:&quot;" newline="True"/>
+            <input variable="n2"/>
+            <assign variable="resultado" expression="n1+n2"/>
+            <output expression="&quot;Seu Resultado &#233;: &quot;" newline="True"/>
+            <output expression="resultado" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
