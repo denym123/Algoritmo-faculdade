@@ -1,0 +1,1 @@
+Eu pedi o nome, o ano em que a pessoa nasceu e o ano atual. No fim eu subtrai o ano em que nasceu pelo ano atual e assim obtive a resposta. Após tudo isso imprimi na tela o nome e o resultado da subtração
