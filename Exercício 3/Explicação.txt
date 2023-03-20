@@ -1,0 +1,1 @@
+Eu coloquei para a pessoa escrever o nome e suas notas, e fiz uma verificação para que se alguma nota fosse maior que 100 ele não retornaria o texto da média, retornaria uma mensagem de erro
