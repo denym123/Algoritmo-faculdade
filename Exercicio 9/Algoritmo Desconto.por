@@ -9,7 +9,7 @@ programa {
     escreva("Digite o valor do primeiro produto ")
     leia(p3)
     total = p1 + p2 + p3
-    valorDesconto = (total * (20 / 100))
+    valorDesconto = total * (20 / 100)
     valorPago = total - valorDesconto
 
     limpa()
